@@ -1,0 +1,11 @@
+C:\Users\taywan_ka\Documents\Visual Studio 2008\Projects\ExcelReader\ExcelReader\bin\ExcelReader.dll
+C:\Users\taywan_ka\Documents\Visual Studio 2008\Projects\ExcelReader\ExcelReader\bin\ExcelReader.pdb
+C:\Users\taywan_ka\Documents\Visual Studio 2008\Projects\ExcelReader\ExcelReader\bin\ExcelReader.xml
+C:\Users\taywan_ka\Documents\Visual Studio 2008\Projects\ExcelReader\ExcelReader\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\taywan_ka\Documents\Visual Studio 2008\Projects\ExcelReader\ExcelReader\bin\office.dll
+C:\Users\taywan_ka\Documents\Visual Studio 2008\Projects\ExcelReader\ExcelReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\taywan_ka\Documents\Visual Studio 2008\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Resources.resources
+C:\Users\taywan_ka\Documents\Visual Studio 2008\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.vbproj.GenerateResource.Cache
+C:\Users\taywan_ka\Documents\Visual Studio 2008\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.dll
+C:\Users\taywan_ka\Documents\Visual Studio 2008\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.xml
+C:\Users\taywan_ka\Documents\Visual Studio 2008\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
