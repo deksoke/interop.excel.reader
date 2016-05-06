@@ -7,7 +7,7 @@
 
         'Support File Extensions - xls, xlsx, csv
         Using ex As New ExcelReader("C:/20160401.xls")
-            ds = ex.GetWorkBook.ToDataSet(False, True)
+            ds = ex.GetDataSet(False, True)
             dt = ds.Tables(0)
         End Using
 
