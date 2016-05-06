@@ -39,3 +39,5 @@ GetDataTable | tbIndex as integer, SetColumnNameWithColumnHeader as boolean = fa
 
 
 # คัดลอกและปรับปรุงจาก (Code Reference)
++ http://www.dotnetperls.com/excel-vbnet
++ http://sample625.rssing.com/chan-13984826/all_p5.html
