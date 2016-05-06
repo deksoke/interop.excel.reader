@@ -4,7 +4,7 @@ Read Excel To DataTable (vb.net)
 
 # ความต้องการ (Requirement)
 + ติดตั้ง MS Office 2010 หรือเวอร์ชั่นสูงกว่า (2010 or Above)
-+ Import ExcelReaderPlugin.ExcelReader ใส่ในคลาสที่ต้องการเรียกใช้
++ Add Reference Microsoft.Office.Interop.Excel ใส่ในโปรเจ็ค
 
 # เริ่มต้นการใช้งาน
 VB
