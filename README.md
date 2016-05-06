@@ -9,10 +9,8 @@ Read Excel To DataTable (vb.net)
 # เริ่มต้นการใช้งาน
 VB
 ```vb
-Imports ExcelReaderPlugin.ExcelReader
-
 Dim FilePath as string = "C:/201604.xlsx"
-Using xlsReader As New ExcelReaderPlugin.ExcelReader(FilePath)
+Using xlsReader As New ExcelReader(FilePath)
     dsWorkBook = xlsReader.GetDataSet(True) //Return DataSet
     dtWorkbook = xlsReader.GetDataTable(0) //Return DataTable
     dtSheetLists = xlsReader.GetSheetLists() //Return DataTable
